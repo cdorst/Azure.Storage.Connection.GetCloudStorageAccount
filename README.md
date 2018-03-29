@@ -27,7 +27,7 @@ The project below uses this repository as a direct dependency.
 
 Name | Status
 ---- | ------
-[Azure.Storage.Table.GetTableClient](https://github.com/CDorst./Azure.Storage.Table.GetTableClient) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst./azure-storage-table-gettableclient.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst./azure-storage-table-gettableclient) [![NuGet package status](https://img.shields.io/nuget/v/CDorst..Azure.Storage.Table.GetTableClient.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst..Azure.Storage.Table.GetTableClient)
+[Azure.Storage.Table.GetTableClient](https://github.com/CDorst/Azure.Storage.Table.GetTableClient) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/azure-storage-table-gettableclient.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/azure-storage-table-gettableclient) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Azure.Storage.Table.GetTableClient.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Azure.Storage.Table.GetTableClient)
 
 ## NuGet
 
@@ -36,7 +36,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-4.0.8
+4.0.9
 
 ## Metaproject
 
